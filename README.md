@@ -1,6 +1,5 @@
 <!-- Typing Animation -->
 <p align="left">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&vleft=true&width=900&lines=Hi+there!+I'm+Jude+Osafo;UI%2FUX+Designer;Front-End+Developer;Design+Systems+Specialist" alt="Typing SVG" />
   </a>
 </p>
