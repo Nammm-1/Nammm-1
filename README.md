@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Jude+Osafo;UI%2FUX+Designer;Front-End+Developer;Design+Systems+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Nammm-1;UI%2FUX+Designer;Front-End+Developer;Design+Systems+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-judeosafo.design@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/judeosafo/">
-    <img src="https://img.shields.io/badge/-Jude%20Osafo-blue?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nammm-1-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://judeosafo.mypixieset.com/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white"/>
@@ -62,10 +62,10 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JudeOsafo&show_icons=true&theme=vue&title_color=00C4FF&icon_color=00C4FF&text_color=ffffff&bg_color=0d1117&count_private=true" alt="Jude Osafo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nammm-1&show_icons=true&theme=vue&title_color=00C4FF&icon_color=00C4FF&text_color=ffffff&bg_color=0d1117&count_private=true" alt="Nammm-1's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudeOsafo&layout=compact&theme=vue&title_color=00C4FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nammm-1&layout=compact&theme=vue&title_color=00C4FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
