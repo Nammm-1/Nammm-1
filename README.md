@@ -1,3 +1,8 @@
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Nammm-1.Nammm-1&left_color=00C4FF&right_color=000000" alt="Profile Views" />
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -62,10 +67,10 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nammm-1&show_icons=true&theme=vue&title_color=00C4FF&icon_color=00C4FF&text_color=ffffff&bg_color=0d1117&count_private=true" alt="Nammm-1's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nammm-1&show_icons=true&count_private=true&theme=radical&title_color=00C4FF&icon_color=00C4FF&text_color=ffffff&bg_color=0d1117" alt="Nammm-1's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nammm-1&layout=compact&theme=vue&title_color=00C4FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nammm-1&layout=compact&theme=radical&title_color=00C4FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
