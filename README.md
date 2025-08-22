@@ -63,7 +63,8 @@ With experience in banking, insurance, and events, I mix creativity with code to
 ---
 
 ## 📌 Featured Projects
-- 🏥 **Health CRM Dashboard** – Full UI/UX + React, TypeScript, and JS Development for patient, appointment, and room management.  
+- 🏥 **Health CRM Dashboard** – Full UI/UX + React, TypeScript, and JS Development for patient, appointment, and room management.
+- 🎯 **IT Ticketing System** - software platform that helps organizations manage, track, and resolve IT-related issues or service requests efficiently by converting them into organized “tickets.”
 - 🎯 **Event Booking Platform** – Designed and implemented an intuitive multi-step booking flow.  
 - 📊 **Insurance Claim Tracker** – Improved claim processing speed with a clean, data-focused interface.  
 
